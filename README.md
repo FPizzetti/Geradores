@@ -1,4 +1,4 @@
-GERADOR<br/>
+#GERADOR<br/>
 Programa para gerar: <br/>
 -CEP<br/>
 -CPF<br/>
